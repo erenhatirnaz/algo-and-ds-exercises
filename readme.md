@@ -7,7 +7,7 @@ to make sure that those who need it can benefit from them.
 * I haven't done any exercise for data structures yet :(
 
 # Algorithms
-* I haven't done any exercise for algorithms yet :(
+* [Binary Search](binary-search)
 
 # License
 * GNU Public License v3 -
