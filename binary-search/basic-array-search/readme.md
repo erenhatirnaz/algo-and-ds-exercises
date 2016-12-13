@@ -8,7 +8,7 @@ Of course I can use the Binary Search algorithm.
 ```bash
 $ git clone https://github.com/erenhatirnaz/algo-and-ds-exercises.git
 $ cd algo-and-ds-exercises/binary-search/basic-array-search
-$ g++ array-search.c -o array-search
+$ make
 $ ./array-search
 ```
 
