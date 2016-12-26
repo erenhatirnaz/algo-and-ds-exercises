@@ -1,7 +1,22 @@
 #include<stdio.h>
 
+/**
+ * binary_search function runs the binary search algorithm. This function takes
+ * 4 arguments. The arguments consist of an integer array and 3 integer value.
+ * The array has to be a sorted array. Because, the algorithm only works with
+ * the sorted array. The other 3 arguments are: left, right and key. left and
+ * right is values of minimum(left) and maximum(right) for the binary search
+ * algorithm. The key is value of sought. The algorithm finds the middle of the
+ * left and right values at each step and continues until the result is equal to
+ * the key. This function returns the index value of the key. If the key isn't
+ * existed in the array, it returns -1. This function runs recursive.
+ */
 int binary_search(int arr[], int left, int right, int key);
 
+/**
+ * This global variable stores the number of steps of the binary search
+ * algorithm.
+ */
 int step_count = 0;
 
 int main()
