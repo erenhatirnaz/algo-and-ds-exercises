@@ -7,7 +7,7 @@ Of course I can use the Binary Search algorithm.
 ## Usage
 ```bash
 $ git clone https://github.com/erenhatirnaz/algo-and-ds-exercises.git
-$ cd algo-and-ds-exercises/binary-search/basic-array-search
+$ cd algo-and-ds-exercises/algorithms/binary-search/basic-array-search
 $ make
 $ ./array-search
 ```

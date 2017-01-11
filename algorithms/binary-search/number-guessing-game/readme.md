@@ -60,7 +60,7 @@ search algorithm. We can find the random number in 7 trials maximum.
 ## Usage
 ```sh
 $ git clone https://github.com/erenhatirnaz/algo-and-ds-exercises.git
-$ cd binary-search/number-guessing-game/
+$ cd algo-and-ds-exercises/algorithms/binary-search/number-guessing-game/
 $ make
 $ ./ngg
 ```
