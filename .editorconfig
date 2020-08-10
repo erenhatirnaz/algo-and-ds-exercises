@@ -6,7 +6,7 @@ insert_final_new_line = false
 end_of_line = lf
 charset = utf-8
 
-[*.c]
+[*.{c,h}]
 indent_style = space
 indent_size = 4
 
